@@ -40,14 +40,17 @@ h3{
 #contact{
   line-height: 2;
 }
-#footer{
+.footer{
   background-color: dimgray;
   background-size: cover;
-#links{
-  
-}
 }
 #copyrite{
   font-size: 11px;
-  text-align: right;
+  text-align: left;
+  color: white;
+}
+.footerlinks{
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
 }
