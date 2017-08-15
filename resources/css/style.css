@@ -15,6 +15,8 @@ ul{
   font-size: 18px;
   color: white;
   cursor: auto;
+  margin: 0;
+  padding: 0;
   text-decoration: underline;
   list-style: none;
   line-height: 2;
@@ -22,7 +24,30 @@ ul{
 a{
   color: white;
 }
-#process{
-  font-size: 32;
+h2{
+  font-size: 32px;
   font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+#ny{
+  color: white;
+  background-image: url(../the-flatiron-building.png);
+  background-size: cover;
+}
+#contact{
+  line-height: 2;
+}
+#footer{
+  background-color: dimgray;
+  background-size: cover;
+#links{
+  
+}
+}
+#copyrite{
+  font-size: 11px;
+  text-align: right;
 }
